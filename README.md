@@ -1,6 +1,6 @@
 # Tensorflow LSTM experiment
 
-To run the training, download a zip-file with texts and index files from [runeberg.org].
+To run the training, download a zip-file with texts and index files from [runeberg.org](http://runeberg.org/).
 
 ```
 python experiment.py --data_file nilsholg-txt.zip --save_path ./model1/ --train
